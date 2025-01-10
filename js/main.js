@@ -40,28 +40,28 @@ sr.reveal('.hero__text',  { origin: 'top' });
 sr.reveal('.steps__step', { distance: '100px', interval: 150 });
 
 sr.reveal('.about__text', { origin: 'left' });
-sr.reveal('.about__img', { origin: 'right', delay: 800 });
+sr.reveal('.about__img', { origin: 'right', delay: 600 });
 
-sr.reveal('.testimonial__bg', { delay: 800 });
+sr.reveal('.testimonial__bg', { delay: 600 });
 sr.reveal('.testimonial__title');
-sr.reveal('.testimonial__slider', { delay: 1000 });
+sr.reveal('.testimonial__slider', { delay: 800 });
 
-sr.reveal('.brands__img', { delay:600, distance: '100px', interval: 150 });
+sr.reveal('.brands__img', { delay:500, distance: '100px', interval: 150 });
 
 sr.reveal('.work__title');
-sr.reveal('.work__subtitle', { delay: 800 });
-sr.reveal('.work__grid', { delay: 1000 });
+sr.reveal('.work__subtitle', { delay: 600 });
+sr.reveal('.work__grid', { delay: 800 });
 
 
 sr.reveal('.stats');
 sr.reveal('.stats__item', { distance: '100px', interval: 100 });
 
 sr.reveal('.news__title');
-sr.reveal('.news__subtitle', { delay: 800 });
+sr.reveal('.news__subtitle', { delay: 600 });
 sr.reveal('.news__items', { distance: '100px', interval: 150, delay: 100 });
 
 sr.reveal('.contact__container');
-sr.reveal('.contact__text', { delay: 800 });
+sr.reveal('.contact__text', { delay: 600 });
 
 sr.reveal('.footer__item', { distance: '100px', interval: 150 });
 sr.reveal('.footet_copyright');
